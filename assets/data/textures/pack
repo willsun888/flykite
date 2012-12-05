@@ -1,0 +1,972 @@
+
+pic1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tongguan
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+teach-5
+  rotate: false
+  xy: 484, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+space-footer
+  rotate: false
+  xy: 2, 804
+  size: 480, 137
+  orig: 480, 137
+  offset: 0, 0
+  index: -1
+sky-footer
+  rotate: false
+  xy: 484, 804
+  size: 480, 137
+  orig: 480, 137
+  offset: 0, 0
+  index: -1
+tightness-warn
+  rotate: false
+  xy: 966, 2
+  size: 47, 429
+  orig: 47, 429
+  offset: 0, 0
+  index: -1
+start-newgame
+  rotate: false
+  xy: 2, 943
+  size: 181, 69
+  orig: 181, 69
+  offset: 0, 0
+  index: -1
+start-newgame-click
+  rotate: false
+  xy: 185, 943
+  size: 181, 69
+  orig: 181, 69
+  offset: 0, 0
+  index: -1
+start-about
+  rotate: false
+  xy: 484, 943
+  size: 181, 69
+  orig: 181, 69
+  offset: 0, 0
+  index: -1
+start-about-click
+  rotate: false
+  xy: 667, 943
+  size: 181, 69
+  orig: 181, 69
+  offset: 0, 0
+  index: -1
+start-exit
+  rotate: false
+  xy: 850, 943
+  size: 166, 69
+  orig: 166, 69
+  offset: 0, 0
+  index: -1
+sound-on
+  rotate: false
+  xy: 368, 943
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+frame-right
+  rotate: false
+  xy: 966, 433
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 966, 512
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+star-s
+  rotate: false
+  xy: 966, 557
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+life1
+  rotate: false
+  xy: 462, 943
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+star-ss
+  rotate: false
+  xy: 462, 975
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+
+pic2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teach-4
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+teach-3
+  rotate: false
+  xy: 484, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+ocean-footer
+  rotate: false
+  xy: 2, 804
+  size: 480, 137
+  orig: 480, 137
+  offset: 0, 0
+  index: -1
+loading-scroll
+  rotate: false
+  xy: 484, 804
+  size: 480, 89
+  orig: 480, 89
+  offset: 0, 0
+  index: -1
+chooselevel-chooselevel
+  rotate: false
+  xy: 484, 895
+  size: 356, 90
+  orig: 356, 90
+  offset: 0, 0
+  index: -1
+chooselevel-back
+  rotate: false
+  xy: 842, 895
+  size: 134, 102
+  orig: 134, 102
+  offset: 0, 0
+  index: -1
+start-teach
+  rotate: false
+  xy: 2, 943
+  size: 177, 69
+  orig: 177, 69
+  offset: 0, 0
+  index: -1
+start-teach-click
+  rotate: false
+  xy: 181, 943
+  size: 177, 69
+  orig: 177, 69
+  offset: 0, 0
+  index: -1
+sound-off
+  rotate: false
+  xy: 360, 943
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+life-bg
+  rotate: false
+  xy: 484, 987
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+life2
+  rotate: false
+  xy: 656, 987
+  size: 159, 30
+  orig: 159, 30
+  offset: 0, 0
+  index: -1
+
+pic3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teach-2
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+teach-1
+  rotate: false
+  xy: 484, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+chooselevel-choosecloth
+  rotate: false
+  xy: 2, 804
+  size: 356, 90
+  orig: 356, 90
+  offset: 0, 0
+  index: -1
+team-logo
+  rotate: false
+  xy: 2, 896
+  size: 296, 108
+  orig: 296, 108
+  offset: 0, 0
+  index: -1
+start-start
+  rotate: false
+  xy: 484, 804
+  size: 224, 94
+  orig: 224, 94
+  offset: 0, 0
+  index: -1
+start-start-click
+  rotate: false
+  xy: 484, 900
+  size: 224, 94
+  orig: 224, 94
+  offset: 0, 0
+  index: -1
+start-continue
+  rotate: false
+  xy: 710, 804
+  size: 224, 94
+  orig: 224, 94
+  offset: 0, 0
+  index: -1
+start-continue-gray
+  rotate: false
+  xy: 710, 900
+  size: 224, 94
+  orig: 224, 94
+  offset: 0, 0
+  index: -1
+chooselevel-back-click
+  rotate: false
+  xy: 300, 896
+  size: 121, 102
+  orig: 121, 102
+  offset: 0, 0
+  index: -1
+kite-4
+  rotate: false
+  xy: 360, 804
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kite-4-noenemy
+  rotate: false
+  xy: 936, 804
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kite-3
+  rotate: false
+  xy: 936, 900
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+frame-left
+  rotate: false
+  xy: 423, 896
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+biao
+  rotate: false
+  xy: 936, 982
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+
+pic4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teach-0
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+manhua2
+  rotate: false
+  xy: 484, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+start-continue-click
+  rotate: false
+  xy: 2, 804
+  size: 224, 94
+  orig: 224, 94
+  offset: 0, 0
+  index: -1
+UFO1-1
+  rotate: false
+  xy: 2, 900
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+UFO1-0
+  rotate: false
+  xy: 228, 804
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+satellite-2
+  rotate: false
+  xy: 228, 902
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+satellite-1
+  rotate: false
+  xy: 484, 804
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+satellite-0
+  rotate: false
+  xy: 484, 902
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+plane1-1
+  rotate: false
+  xy: 614, 804
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+plane1-0
+  rotate: false
+  xy: 614, 902
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+plane0-1
+  rotate: false
+  xy: 744, 804
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+plane0-0
+  rotate: false
+  xy: 744, 902
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+fish2-2
+  rotate: false
+  xy: 874, 804
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+fish2-1
+  rotate: false
+  xy: 874, 902
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+fish1-3
+  rotate: false
+  xy: 358, 804
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+kite-3-noenemy
+  rotate: false
+  xy: 132, 900
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kite-2
+  rotate: false
+  xy: 358, 934
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+
+pic5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+manhua1
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+loading
+  rotate: false
+  xy: 484, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+fish2-0
+  rotate: false
+  xy: 2, 804
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+fish1-2
+  rotate: false
+  xy: 132, 804
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+fish1-1
+  rotate: false
+  xy: 230, 804
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+fish1-0
+  rotate: false
+  xy: 328, 804
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+gamepause-start
+  rotate: false
+  xy: 2, 902
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+gamepause-start-click
+  rotate: false
+  xy: 484, 804
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+gamepause-sound
+  rotate: false
+  xy: 597, 804
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+gamepause-sound-click
+  rotate: false
+  xy: 710, 804
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+gamepause-restart
+  rotate: false
+  xy: 823, 804
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+start-exit-click
+  rotate: false
+  xy: 823, 916
+  size: 166, 69
+  orig: 166, 69
+  offset: 0, 0
+  index: -1
+kite-zhi-xing-s
+  rotate: false
+  xy: 484, 916
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+kite-zhi-shi-s
+  rotate: false
+  xy: 597, 916
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+kite-zhi-chen-s
+  rotate: false
+  xy: 710, 916
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+kite-2-noenemy
+  rotate: false
+  xy: 132, 934
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kite-1
+  rotate: false
+  xy: 230, 934
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kite-1-noenemy
+  rotate: false
+  xy: 328, 934
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kite-0
+  rotate: false
+  xy: 936, 804
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 410, 934
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+
+pic6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg-start
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+bg-gamepause
+  rotate: false
+  xy: 484, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+gamepause-restart-click
+  rotate: false
+  xy: 2, 804
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+gamepause-quiet
+  rotate: false
+  xy: 115, 804
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+gamepause-quiet-click
+  rotate: false
+  xy: 228, 804
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+gamepause-back
+  rotate: false
+  xy: 341, 804
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+gamepause-back-click
+  rotate: false
+  xy: 484, 804
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+kite-0-noenemy
+  rotate: false
+  xy: 2, 916
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bird1-2
+  rotate: false
+  xy: 115, 916
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+bird1-1
+  rotate: false
+  xy: 228, 916
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+bird1-0
+  rotate: false
+  xy: 341, 916
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+bird0-2
+  rotate: false
+  xy: 484, 916
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+bird0-1
+  rotate: false
+  xy: 597, 804
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+bird0-0
+  rotate: false
+  xy: 597, 870
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+kongming-0
+  rotate: false
+  xy: 695, 804
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 761, 804
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+level-lock
+  rotate: false
+  xy: 597, 936
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+chooselevel-number3
+  rotate: false
+  xy: 695, 901
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+chooselevel-number2
+  rotate: false
+  xy: 761, 865
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+chooselevel-number1
+  rotate: false
+  xy: 761, 928
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+game-pause
+  rotate: false
+  xy: 861, 804
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+kite-4-s
+  rotate: false
+  xy: 923, 804
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+kite-3-s
+  rotate: false
+  xy: 861, 867
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+kite-2-s
+  rotate: false
+  xy: 861, 929
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+kite-1-s
+  rotate: false
+  xy: 923, 867
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+kite-0-s
+  rotate: false
+  xy: 923, 929
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+chooselevel-number1-click
+  rotate: false
+  xy: 695, 964
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+
+pic7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg-chooselevel
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+about
+  rotate: false
+  xy: 484, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+chooselevel-number3-click
+  rotate: false
+  xy: 2, 804
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+chooselevel-number2-click
+  rotate: false
+  xy: 2, 863
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 922
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+
+pic8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg-game
+  rotate: false
+  xy: 2, 2
+  size: 240, 561
+  orig: 240, 561
+  offset: 0, 0
+  index: -1
+kite-lock
+  rotate: false
+  xy: 244, 2
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+choosecloth-4
+  rotate: false
+  xy: 244, 298
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+choosecloth-4-click
+  rotate: false
+  xy: 244, 594
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+line-roller
+  rotate: false
+  xy: 678, 594
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 2, 565
+  size: 60, 414
+  orig: 60, 414
+  offset: 0, 0
+  index: -1
+
+pic9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+choosecloth-3
+  rotate: false
+  xy: 2, 2
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+choosecloth-3-click
+  rotate: false
+  xy: 436, 2
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+choosecloth-2
+  rotate: false
+  xy: 2, 298
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+choosecloth-2-click
+  rotate: false
+  xy: 2, 594
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+choosecloth-1
+  rotate: false
+  xy: 436, 298
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+choosecloth-1-click
+  rotate: false
+  xy: 436, 594
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+
+pic10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+choosecloth-0
+  rotate: false
+  xy: 2, 2
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+choosecloth-0-click
+  rotate: false
+  xy: 436, 2
+  size: 432, 294
+  orig: 432, 294
+  offset: 0, 0
+  index: -1
+chooselevel-spaceframe
+  rotate: false
+  xy: 2, 298
+  size: 432, 286
+  orig: 432, 286
+  offset: 0, 0
+  index: -1
+chooselevel-skyframe
+  rotate: false
+  xy: 2, 586
+  size: 432, 286
+  orig: 432, 286
+  offset: 0, 0
+  index: -1
+chooselevel-oceanframe
+  rotate: false
+  xy: 436, 298
+  size: 432, 286
+  orig: 432, 286
+  offset: 0, 0
+  index: -1
+kite-zhi-xing
+  rotate: false
+  xy: 436, 586
+  size: 362, 300
+  orig: 362, 300
+  offset: 0, 0
+  index: -1
+
+pic11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+final-line
+  rotate: false
+  xy: 2, 2
+  size: 704, 105
+  orig: 704, 105
+  offset: 0, 0
+  index: -1
+kite-zhi-shi
+  rotate: false
+  xy: 2, 109
+  size: 362, 300
+  orig: 362, 300
+  offset: 0, 0
+  index: -1
+kite-zhi-chen
+  rotate: false
+  xy: 366, 109
+  size: 362, 300
+  orig: 362, 300
+  offset: 0, 0
+  index: -1

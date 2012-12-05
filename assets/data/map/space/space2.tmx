@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><map height="250" orientation="orthogonal" tileheight="32" tilewidth="32" version="1.0" width="22"><properties><property name="blended tiles" value="1,2,3,4,5,6,7,10,11,12,13,16,17,18,19,22,23,24,25,26,27,28,29,30,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,53,54,59,60,65,66,71,72"/></properties>
+ <tileset firstgid="1" name="block-space" tileheight="32" tilewidth="32">
+  <image height="512" source="block-space.png" width="192"/>
+ </tileset>
+ <layer height="250" name="bgLayer" visible="0" width="22">
+  <data compression="zlib" encoding="base64">
+   eJzt1ddKBEEQRuFZFQxgAAMYwGcwgAFcBQOYc47v/xT+3vVFba8NVQPbnItz0/QwUB8z1WmaZkit9uhUnalzdaEu1VXm/rAaUaNqLHPvrxt1q+7UvXrI3B1XE2pSXWd6VE/qWb2oV/XW55kZNavmMu9/Vx/qU32pb/WTuT+vFtSiWuozh5KW1YrqJG57qqv21UFyt+TccjtUR+pYnSTPl5ynblOOc5j+p1tplpvHfC03j/mWfG8ltenmMV/LzWO+lptHbbp5zNdy85hvm//JKDeP+VpuHvNt8z8Z5cZ+i3Vjv8W6sd9i3dhvsW7st1g39lusG/st1o39FuvGfhtMN49q2G+4xbqtqXW1oTaTuyXnltuW2lY7ajd5vuS8BjeP+VpuHvOt4XvzmK/l5jHfGv6THvO13DzmW8N+85iv5eYxX/Zbbzf2m9982W+93dhvsW7st1g39lusG/ttMN08qmG/4YYbbrjhhhtuuOGGG2644YYbbrjhhhtuuOGGG2644YYbbrjhhhtuuOGGG2644YYbbrjhhhtuuOHm7/YLM76lwA==
+  </data>
+ </layer>
+ <layer height="250" name="enemyLayer" visible="0" width="22">
+  <data compression="zlib" encoding="base64">
+   eJzt2ksOgyAQgGE37aa9iX3d/3SlCxJDRBhm0MH+X0KMFWEWDCh2moDjXEK5Kq7n3EK5K67/PEJ5hvIK5b04/2zcM6/Uj+cAAAAAAACj23O/xPO+EQCZmK/pUSvma3psNdK8UxuLNObaWKQxE68sjh5rkVXepYiVWImVWIn1fLF6Wd+IVxZHj2dKT8+/S6O8XwC99Z53cvfF31tzJG1f216ufXLYN8bvdvuMX98Yv9vtM3594X/Q52T9LpTOB6X5SNpeqrX9I/fXYYfxa1MPx2D82tQDgFql9+NWpXlSapTvQ9r1Rdt/7X3W62ypP6mzrnfkG/mmsVe+5fa54vlyv2uuqA+s6TXORsu3XH+19p7PpP1L60n7t17nvK3H3pFvdf2VkG9t/i3fAAAAIPcFuZobjA==
+  </data>
+ </layer>
+ <layer height="250" name="foodLayer" width="22">
+  <data compression="zlib" encoding="base64">
+   eJzt2DEOgCAMBVCu4BmcuP8FnY0MJEah7XszA5CSX9oaANTRV28AgvJ22JXaBAAAiOlYvQEAgB+YYcOdfwB8b5Q98ogo1C8AGck3IlO/ZGAeBcDITE+Tte95c66sdwKRnRNr9MRQh5x/qtz3AQAAe7kANywDnA==
+  </data>
+ </layer>
+ <objectgroup height="250" name="enemyObject" visible="0" width="22">
+  <object height="32" name="obstacle" width="192" x="32" y="288"/>
+  <object height="32" name="obstacle" width="192" x="480" y="288"/>
+  <object height="32" name="obstacle" width="192" x="32" y="1888"/>
+  <object height="32" name="obstacle" width="192" x="480" y="1888"/>
+  <object height="32" name="obstacle" width="192" x="32" y="4480"/>
+  <object height="32" name="obstacle" width="192" x="480" y="4480"/>
+  <object height="32" name="obstacle" width="256" x="32" y="6240"/>
+  <object height="32" name="obstacle" width="256" x="416" y="6240"/>
+  <object height="32" name="obstacle" width="256" x="416" y="6464"/>
+  <object height="32" name="obstacle" width="256" x="32" y="6464"/>
+  <object height="64" name="obstacle" width="64" x="224" y="7008"/>
+  <object height="64" name="obstacle" width="96" x="128" y="6944"/>
+  <object height="64" name="obstacle" width="96" x="64" y="6880"/>
+  <object height="64" name="obstacle" width="64" x="32" y="6816"/>
+  <object height="64" name="obstacle" width="64" x="32" y="6496"/>
+  <object height="64" name="obstacle" width="64" x="96" y="6560"/>
+  <object height="64" name="obstacle" width="64" x="160" y="6624"/>
+  <object height="64" name="obstacle" width="64" x="224" y="6688"/>
+  <object height="64" name="obstacle" width="64" x="416" y="6688"/>
+  <object height="64" name="obstacle" width="64" x="480" y="6624"/>
+  <object height="64" name="obstacle" width="64" x="544" y="6560"/>
+  <object height="64" name="obstacle" width="64" x="608" y="6496"/>
+  <object height="64" name="obstacle" width="64" x="608" y="6816"/>
+  <object height="64" name="obstacle" width="96" x="544" y="6880"/>
+  <object height="64" name="obstacle" width="96" x="480" y="6944"/>
+  <object height="64" name="obstacle" width="64" x="416" y="7008"/>
+  <object height="64" name="obstacle" width="64" x="32" y="6176"/>
+  <object height="64" name="obstacle" width="96" x="64" y="6112"/>
+  <object height="64" name="obstacle" width="64" x="160" y="6048"/>
+  <object height="64" name="obstacle" width="64" x="224" y="5984"/>
+  <object height="64" name="obstacle" width="96" x="192" y="5664"/>
+  <object height="64" name="obstacle" width="96" x="128" y="5728"/>
+  <object height="64" name="obstacle" width="96" x="64" y="5792"/>
+  <object height="64" name="obstacle" width="64" x="32" y="5856"/>
+  <object height="64" name="obstacle" width="96" x="416" y="5664"/>
+  <object height="64" name="obstacle" width="96" x="480" y="5728"/>
+  <object height="64" name="obstacle" width="96" x="544" y="5792"/>
+  <object height="64" name="obstacle" width="64" x="608" y="5856"/>
+  <object height="64" name="obstacle" width="64" x="608" y="6176"/>
+  <object height="64" name="obstacle" width="96" x="544" y="6112"/>
+  <object height="64" name="obstacle" width="64" x="480" y="6048"/>
+  <object height="64" name="obstacle" width="64" x="416" y="5984"/>
+  <object height="64" name="obstacle" width="64" x="160" y="5216"/>
+  <object height="64" name="obstacle" width="64" x="224" y="5184"/>
+  <object height="64" name="obstacle" width="128" x="288" y="5152"/>
+  <object height="64" name="obstacle" width="64" x="416" y="5184"/>
+  <object height="64" name="obstacle" width="64" x="480" y="5216"/>
+  <object height="64" name="obstacle" width="64" x="480" y="4960"/>
+  <object height="64" name="obstacle" width="64" x="416" y="4928"/>
+  <object height="64" name="obstacle" width="128" x="288" y="4896"/>
+  <object height="64" name="obstacle" width="64" x="224" y="4928"/>
+  <object height="64" name="obstacle" width="64" x="160" y="4960"/>
+  <object height="64" name="obstacle" width="64" x="160" y="4704"/>
+  <object height="64" name="obstacle" width="64" x="224" y="4672"/>
+  <object height="64" name="obstacle" width="128" x="288" y="4640"/>
+  <object height="64" name="obstacle" width="64" x="416" y="4672"/>
+  <object height="64" name="obstacle" width="64" x="480" y="4704"/>
+  <object height="64" name="obstacle" width="128" x="288" y="4288"/>
+  <object height="64" name="obstacle" width="64" x="416" y="4256"/>
+  <object height="64" name="obstacle" width="64" x="480" y="4224"/>
+  <object height="64" name="obstacle" width="64" x="160" y="4224"/>
+  <object height="64" name="obstacle" width="64" x="224" y="4256"/>
+  <object height="64" name="obstacle" width="64" x="160" y="3968"/>
+  <object height="64" name="obstacle" width="64" x="224" y="4000"/>
+  <object height="64" name="obstacle" width="128" x="288" y="4032"/>
+  <object height="64" name="obstacle" width="64" x="416" y="4000"/>
+  <object height="64" name="obstacle" width="64" x="480" y="3968"/>
+  <object height="64" name="obstacle" width="128" x="288" y="3776"/>
+  <object height="64" name="obstacle" width="64" x="416" y="3744"/>
+  <object height="64" name="obstacle" width="64" x="480" y="3712"/>
+  <object height="64" name="obstacle" width="64" x="224" y="3744"/>
+  <object height="64" name="obstacle" width="64" x="160" y="3712"/>
+  <object height="192" name="obstacle" width="64" x="480" y="3168"/>
+  <object height="64" name="obstacle" width="96" x="416" y="3360"/>
+  <object height="64" name="obstacle" width="192" x="256" y="3424"/>
+  <object height="64" name="obstacle" width="96" x="192" y="3360"/>
+  <object height="192" name="obstacle" width="64" x="160" y="3168"/>
+  <object height="64" name="obstacle" width="64" x="192" y="3104"/>
+  <object height="64" name="obstacle" width="64" x="224" y="3040"/>
+  <object height="64" name="obstacle" width="64" x="256" y="2976"/>
+  <object height="64" name="obstacle" width="64" x="288" y="2912"/>
+  <object height="64" name="obstacle" width="64" x="320" y="2848"/>
+  <object height="64" name="obstacle" width="64" x="352" y="2784"/>
+  <object height="64" name="obstacle" width="64" x="384" y="2720"/>
+  <object height="64" name="obstacle" width="64" x="416" y="2656"/>
+  <object height="64" name="obstacle" width="64" x="448" y="2592"/>
+  <object height="192" name="obstacle" width="64" x="480" y="2400"/>
+  <object height="64" name="obstacle" width="96" x="416" y="2336"/>
+  <object height="64" name="obstacle" width="192" x="256" y="2272"/>
+  <object height="64" name="obstacle" width="96" x="192" y="2336"/>
+  <object height="192" name="obstacle" width="64" x="160" y="2400"/>
+  <object height="64" name="obstacle" width="64" x="192" y="1920"/>
+  <object height="64" name="obstacle" width="64" x="448" y="1920"/>
+  <object height="64" name="obstacle" width="64" x="192" y="224"/>
+  <object height="64" name="obstacle" width="64" x="448" y="224"/>
+  <object height="32" name="leftWindStart0" width="32" x="0" y="3520"/>
+  <object height="32" name="leftWindEnd0" width="32" x="0" y="2176"/>
+  <object height="32" name="rightWindStart1" width="32" x="0" y="1856"/>
+  <object height="32" name="rightWindEnd1" width="32" x="0" y="128"/>
+ </objectgroup>
+ <objectgroup height="250" name="foodObject" width="22">
+  <object height="32" name="star" width="32" x="192" y="6816"/>
+  <object height="32" name="star" width="32" x="96" y="6720"/>
+  <object height="32" name="star" width="32" x="480" y="6816"/>
+  <object height="32" name="star" width="32" x="576" y="6720"/>
+  <object height="32" name="star" width="32" x="96" y="5984"/>
+  <object height="32" name="star" width="32" x="192" y="5888"/>
+  <object height="32" name="star" width="32" x="480" y="5888"/>
+  <object height="32" name="star" width="32" x="576" y="5984"/>
+  <object height="32" name="kite-4" width="32" x="192" y="6336"/>
+  <object height="32" name="star" width="32" x="256" y="5056"/>
+  <object height="32" name="star" width="32" x="416" y="5056"/>
+  <object height="32" name="star" width="32" x="256" y="4800"/>
+  <object height="32" name="star" width="32" x="416" y="4800"/>
+  <object height="32" name="star" width="32" x="256" y="4160"/>
+  <object height="32" name="star" width="32" x="416" y="4160"/>
+  <object height="32" name="star" width="32" x="256" y="3904"/>
+  <object height="32" name="star" width="32" x="416" y="3904"/>
+  <object height="32" name="star" width="32" x="192" y="1184"/>
+  <object height="32" name="star" width="32" x="480" y="928"/>
+  <object height="32" name="star" width="32" x="192" y="640"/>
+  <object height="32" name="heart" width="32" x="320" y="2464"/>
+  <object height="32" name="heart" width="32" x="320" y="5312"/>
+  <object height="32" name="heart" width="32" x="480" y="6336"/>
+  <object height="32" name="heart" width="32" x="320" y="3584"/>
+  <object height="32" name="star" width="32" x="352" y="3296"/>
+ </objectgroup>
+ <objectgroup height="250" name="dynamicObject" visible="0" width="22">
+  <object height="32" name="ufo" width="32" x="672" y="5088"/>
+  <object height="32" name="ufo" width="32" x="0" y="4864"/>
+  <object height="32" name="ufo" width="32" x="0" y="4256"/>
+  <object height="32" name="ufo" width="32" x="672" y="4000"/>
+  <object height="32" name="ufo" width="32" x="0" y="1568"/>
+  <object height="32" name="ufo" width="32" x="672" y="1280"/>
+  <object height="32" name="ufo" width="32" x="672" y="1152"/>
+  <object height="32" name="ufo" width="32" x="672" y="1024"/>
+  <object height="32" name="ufo" width="32" x="0" y="736"/>
+  <object height="32" name="satellite" width="32" x="0" y="512"/>
+  <object height="32" name="satellite" width="32" x="672" y="640"/>
+  <object height="32" name="satellite" width="32" x="672" y="6368"/>
+  <object height="32" name="satellite" width="32" x="672" y="1696"/>
+ </objectgroup>
+</map>
