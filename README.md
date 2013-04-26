@@ -1,9 +1,10 @@
 flykite
 ===========
 
-flykite���ɱ��ʡ������ʡ��Ŷӿ�����һ��androidС��Ϸ������Ʒ���й���ͳ��Ϸ���ŷ��ݡ�Ϊ���У�����ͳ�Ļ����ִ���Ϸ���ϣ�ͨ���ֻ���������б����ʵ������ģ��ŷ��ݵĳ�������������ഴ��Ԫ�أ�ʹ��������ֵ�ͬʱ���ܹ����ܵ��й�����Ĵ�ͳ�Ļ���
+flykite是由北邮“筝尚邮”团队开发的一款android小游戏。该作品以中国传统游戏“放风筝”为依托，将传统文化与现代游戏相结合，通过手机抖动、倾斜等真实动作，模拟放风筝的场景，并融入诸多创新元素，使玩家在娱乐的同时，能够感受到中国博大的传统文化。
 
-��������
-1. ����Ϸ����android2.1ϵͳ
+技术介绍 
 
-2. ��Ϸ���õ��˿�Դ���libgdx��http://code.google.com/p/libgdx/
+1. 本游戏基于android2.1系统
+
+2. 游戏中用到了开源框架libgdx：http://code.google.com/p/libgdx/
